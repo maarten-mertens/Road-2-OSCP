@@ -11,14 +11,15 @@
 >   Secure Shell (SSH) on Wikipedia
     How to use SSH on wikiHow
 	
-## Solution
-
-```bash
-ssh -p 2220 bandit0@bandit.labs.overthewire.org
-```
 ## How to solve this level.
 See man page of SSH.
 
 ```bash
 ssh -p portnumber username@hostname
+```
+
+## Solution
+
+```bash
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
