@@ -7,8 +7,8 @@
 >ls , cd , cat , file , du , find
 
 ## How to solve this level.
-The ls command allows you to display the contents of a directory.
-By using the cat command, you can display the contents of a file.
+The ***ls*** command allows you to display the contents of a directory.
+By using the ***cat*** command, you can display the contents of a file.
 
 ## Solution
 ```bash
