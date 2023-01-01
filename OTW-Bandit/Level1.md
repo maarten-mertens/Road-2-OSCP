@@ -7,12 +7,11 @@
 >ls , cd , cat , file , du , find
 
 ## How to solve this level.
-
+The ls command allows you to display the contents of a directory.
+By using the cat command, you can display the contents of a file.
 
 ## Solution
 ```bash
-bandit0@bandit:~$ pwd
-/home/bandit0
 bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ cat readme 
