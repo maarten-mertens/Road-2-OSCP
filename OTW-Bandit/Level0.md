@@ -16,37 +16,9 @@
 ```bash
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
-
-## Terminal output
+## How to solve this level.
+See man page of SSH.
 
 ```bash
-
-                         _                     _ _ _   
-                        | |__   __ _ _ __   __| (_) |_ 
-                        | '_ \ / _` | '_ \ / _` | | __|
-                        | |_) | (_| | | | | (_| | | |_ 
-                        |_.__/ \__,_|_| |_|\__,_|_|\__|
-                                                       
-
-                      This is an OverTheWire game server. 
-            More information on http://www.overthewire.org/wargames
-
-bandit0@bandit.labs.overthewire.org's password: 
-
-      ,----..            ,----,          .---.
-     /   /   \         ,/   .`|         /. ./|
-    /   .     :      ,`   .'  :     .--'.  ' ;
-   .   /   ;.  \   ;    ;     /    /__./ \ : |
-  .   ;   /  ` ; .'___,/    ,' .--'.  '   \' .
-  ;   |  ; \ ; | |    :     | /___/ \ |    ' '
-  |   :  | ; | ' ;    |.';  ; ;   \  \;      :
-  .   |  ' ' ' : `----'  |  |  \   ;  `      |
-  '   ;  \; /  |     '   :  ;   .   \    .\  ;
-   \   \  ',  /      |   |  '    \   \   ' \ |
-    ;   :    /       '   :  |     :   '  |--"
-     \   \ .'        ;   |.'       \   \ ;
-  www. `---` ver     '---' he       '---" ire.org
-
-
-Welcome to OverTheWire!
-````
+ssh -p portnumber username@hostname
+```
