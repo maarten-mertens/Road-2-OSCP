@@ -13,9 +13,11 @@
 
 
 ## Solution
+```bash
 bandit1@bandit:~$ ls
 -
 bandit1@bandit:~$ cat -
 ^C
 bandit1@bandit:~$ cat ./-
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+```
