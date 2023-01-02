@@ -9,9 +9,9 @@
 > Advanced Bash-scripting Guide - Chapter 3 - Special Characters
 
 ## How to solve this level.
-The approach of previous level does not work, the command ```bash cat - ``` gives no output.
+The approach of previous level does not work, the command ``` cat - ``` gives no output.
 The dash (-) is used in terminal to pass parameters.
-You can open the file by pointing to the path ```bash ./-```
+You can open the file by pointing to the path ``` ./-```
 
 
 ## Solution
