@@ -10,7 +10,8 @@
 
 
 ## Solution
-bandit4@bandit:~/inhere$ find .| xargs file
+```bash
+bandit4@bandit:~/inhere$ find .| xargs file 
 .:         directory
 ./-file08: data
 ./-file06: data
@@ -25,3 +26,4 @@ bandit4@bandit:~/inhere$ find .| xargs file
 
 bandit4@bandit:~/inhere$  cat ./-file07
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+```
