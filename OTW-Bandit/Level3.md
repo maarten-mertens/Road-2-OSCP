@@ -10,7 +10,7 @@
 >  Google Search for “spaces in filename”
 
 ## How to solve this level.
-The easiest way to open a filename with spaces is to use apostrophes ("), quotation marks ('), or escape character ("&#92;")
+The easiest way to open a filename with spaces is to use apostrophes ("), quotation marks ('), or escape character (&#92;)
 
 ## Solution
 ```bash
