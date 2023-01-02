@@ -13,9 +13,9 @@
 
 ## Solution
 ```bash
-bandit5@bandit:~$ cat | find . -size 1033c
+bandit5@bandit:~$ find . -size 1033c
 ./inhere/maybehere07/.file2
-cat ./inhere/maybehere07/.file2
+
 bandit5@bandit:~$ cat ./inhere/maybehere07/.file2 
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
