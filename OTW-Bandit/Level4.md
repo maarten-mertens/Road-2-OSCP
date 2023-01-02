@@ -7,7 +7,7 @@
 > ls, cd, cat, file, du, find
 
 ## How to solve this level
-ls met het argument "-a" of "-all".
+ls with the argument "-a" of "-all".
 
 ## Solution
 ```bash
